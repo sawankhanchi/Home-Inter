@@ -21,8 +21,8 @@ const MenuItem = ({ title, imageUrl, size, history, linkUrl, match }) => (
       }}
     />
     <ContentContainer className='content'>
-      <ContentTitle>{title.toUpperCase()} SELECTION</ContentTitle>
-      <ContentSubtitle>ADD NOW</ContentSubtitle>
+      <ContentTitle>{title.toUpperCase()} COLLECTION</ContentTitle>
+      <ContentSubtitle>BUY NOW</ContentSubtitle>
     </ContentContainer>
   </MenuItemContainer>
 );

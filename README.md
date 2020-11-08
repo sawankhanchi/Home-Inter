@@ -1,4 +1,4 @@
-<img src="../images/classic-01.jpg" alt="stripe-preview" width="100%">
+<img src="./src./images/classic-01.jpg" alt="stripe-preview" width="100%">
 
 </br>
 </br>
@@ -43,7 +43,7 @@ Use Firebase to build **full stack application.**
 
 </br>
 
-<img src="https://user-images.githubusercontent.com/62475313/95639761-c3ee0f80-0a67-11eb-8de8-2e0a4c679b2c.png" alt="stripe-preview" width="100%">
+<img src="....." alt="stripe-preview" width="100%">
 
 </br>
 </br>
@@ -81,5 +81,5 @@ Delete from cart;
 
 </br>
 
-<img src="https://user-images.githubusercontent.com/62475313/88081057-e6018100-cb4d-11ea-83a5-1f97c0542f1a.gif" alt="stripe-preview" width="100%">
+<img src="....." alt="stripe-preview" width="100%">
  
